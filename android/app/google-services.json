@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794484774533",
+    "project_id": "cloud-functions-2-vepgjr",
+    "storage_bucket": "cloud-functions-2-vepgjr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794484774533:android:1535ae23d4a8050fa8fbec",
+        "android_client_info": {
+          "package_name": "com.mycompany.cloudfunctions2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelHoCLLDUGkFGfhAb63RfahpbRZpTbB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
